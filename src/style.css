@@ -30,6 +30,10 @@ li:first-letter {
   text-transform: capitalize;
 }
 
+footer {
+  font-size: 11px;
+}
+
 .container {
   margin-top: 70px;
 }
